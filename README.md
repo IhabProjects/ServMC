@@ -7,8 +7,8 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/IhabProjects/ServMC)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/ServMC?style=social)](https://github.com/IhabProjects/ServMC/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/ServMC)](https://github.com/IhabProjects/ServMC/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/IhabProjects/ServMC?style=social)](https://github.com/IhabProjects/ServMC/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/IhabProjects/ServMC)](https://github.com/IhabProjects/ServMC/issues)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/IhabProjects/ServMC)
 
 **The most powerful, user-friendly Minecraft server management solution**
@@ -316,14 +316,14 @@ That's it! ServMC will open and you can start creating servers immediately.
 
 #### Method 1: Git Clone (Recommended)
 ```bash
-git clone https://github.com/your-username/ServMC.git
+git clone https://github.com/IhabProjects/ServMC.git
 cd ServMC
 pip install -r requirements.txt
 python launch.py
 ```
 
 #### Method 2: Download ZIP
-1. Download the [latest release](https://github.com/your-username/ServMC/releases)
+1. Download the [latest release](https://github.com/IhabProjects/ServMC/releases)
 2. Extract to desired location
 3. Run `install.bat` (Windows) or `install.sh` (Linux/Mac)
 
@@ -628,7 +628,7 @@ We love contributions! Here's how you can help make ServMC even better:
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=your-username/ServMC)](https://github.com/your-username/ServMC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=IhabProjects/ServMC)](https://github.com/IhabProjects/ServMC/graphs/contributors)
 
 </div>
 
@@ -659,9 +659,9 @@ We love contributions! Here's how you can help make ServMC even better:
 
 ### 💬 Get Help
 
-- 📖 **Documentation**: [Wiki](https://github.com/your-username/ServMC/wiki)
-- 🐛 **Bug Reports**: [Issues](https://github.com/your-username/ServMC/issues)
-- 💡 **Feature Requests**: [Discussions](https://github.com/your-username/ServMC/discussions)
+- 📖 **Documentation**: [Wiki](https://github.com/IhabProjects/ServMC/wiki)
+- 🐛 **Bug Reports**: [Issues](https://github.com/IhabProjects/ServMC/issues)
+- 💡 **Feature Requests**: [Discussions](https://github.com/IhabProjects/ServMC/discussions)
 - 💬 **Discord**: [Join our community](https://discord.gg/servmc)
 
 ### ❓ FAQ
@@ -694,15 +694,15 @@ A: Absolutely! You can use any compatible server JAR with ServMC.
 
 ### 🎯 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/ServMC)
-![Lines of code](https://img.shields.io/tokei/lines/github/your-username/ServMC)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/your-username/ServMC)
+![GitHub repo size](https://img.shields.io/github/repo-size/IhabProjects/ServMC)
+![Lines of code](https://img.shields.io/tokei/lines/github/IhabProjects/ServMC)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/IhabProjects/ServMC)
 
 ### 🌟 Community
 
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/ServMC?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/ServMC?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/your-username/ServMC?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/IhabProjects/ServMC?style=social)
+![GitHub forks](https://img.shields.io/github/forks/IhabProjects/ServMC?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/IhabProjects/ServMC?style=social)
 
 </div>
 
@@ -746,7 +746,7 @@ copies or substantial portions of the Software.
 
 ### 🚀 Ready to Get Started?
 
-[📦 Download ServMC](https://github.com/your-username/ServMC/releases) • [📖 View Documentation](https://github.com/your-username/ServMC/wiki) • [💬 Join Discord](https://discord.gg/servmc)
+[📦 Download ServMC](https://github.com/IhabProjects/ServMC/releases) • [📖 View Documentation](https://github.com/IhabProjects/ServMC/wiki) • [💬 Join Discord](https://discord.gg/servmc)
 
 **Made with ❤️ by the ServMC Team**
 
