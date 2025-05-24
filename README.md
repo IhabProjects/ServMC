@@ -6,10 +6,10 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/your-username/ServMC)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/ServMC?style=social)](https://github.com/your-username/ServMC/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/ServMC)](https://github.com/your-username/ServMC/issues)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/your-username/ServMC)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](https://github.com/IhabProjects/ServMC)
+[![GitHub Stars](https://img.shields.io/github/stars/your-username/ServMC?style=social)](https://github.com/IhabProjects/ServMC/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/your-username/ServMC)](https://github.com/IhabProjects/ServMC/issues)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/IhabProjects/ServMC)
 
 **The most powerful, user-friendly Minecraft server management solution**
 
