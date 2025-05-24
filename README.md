@@ -21,19 +21,19 @@
 
 ## 📋 Table of Contents
 
-- [🎯 Overview](#overview)
-- [✨ Features](#features)
-- [🏗️ Architecture](#architecture)
-- [⚡ Quick Start](#quick-start)
-- [📦 Installation](#installation)
-- [🎮 Usage](#usage)
-- [🔧 Configuration](#configuration)
-- [📊 Screenshots](#screenshots)
-- [🌐 API Reference](#api-reference)
-- [🧪 Testing](#testing)
-- [🤝 Contributing](#contributing)
-- [📝 Changelog](#changelog)
-- [📄 License](#license)
+- [🎯 Overview](#-overview)
+- [✨ Features](#-features)
+- [🏗️ Architecture](#%EF%B8%8F-architecture)
+- [⚡ Quick Start](#-quick-start)
+- [📦 Installation](#-installation)
+- [🎮 Usage](#-usage)
+- [🔧 Configuration](#-configuration)
+- [📊 Screenshots](#-screenshots)
+- [🌐 API Reference](#-api-reference)
+- [🧪 Testing](#-testing)
+- [🤝 Contributing](#-contributing)
+- [📝 Changelog](#-changelog)
+- [📄 License](#-license)
 
 ---
 
@@ -55,6 +55,7 @@
 ## ✨ Features
 
 ### 🎮 Server Management
+
 - **Multi-Type Support**: Create servers for any Minecraft version and type
 - **One-Click Setup**: Automated server creation with proper configuration
 - **Smart Port Management**: Automatic port conflict detection and resolution
@@ -62,6 +63,7 @@
 - **Backup System**: Automated world and configuration backups
 
 ### 📦 Mod & Modpack Management
+
 - **Modrinth Integration**: Browse and install 50,000+ mods and modpacks
 - **Automatic Installation**: One-click modpack deployment with all dependencies
 - **Mod Compatibility**: Smart loader detection (Fabric vs Forge)
@@ -69,6 +71,7 @@
 - **Bulk Operations**: Install, update, or remove multiple mods at once
 
 ### 🌐 Modern Interface
+
 - **Dual Interface**: Desktop GUI and Web interface
 - **Responsive Design**: Beautiful UI that works on any device
 - **Real-Time Updates**: Live server status and log streaming
@@ -76,6 +79,7 @@
 - **Mobile Support**: Manage servers from your phone
 
 ### 🔧 Advanced Features
+
 - **Java Management**: Automatic Java detection and configuration
 - **Memory Optimization**: Smart RAM allocation based on available resources
 - **Plugin Support**: Full support for Bukkit/Spigot/Paper plugins
@@ -89,6 +93,7 @@
 ### System Overview
 
 **Architecture Diagram:**
+
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Desktop GUI   │    │  Web Interface  │    │    REST API     │
